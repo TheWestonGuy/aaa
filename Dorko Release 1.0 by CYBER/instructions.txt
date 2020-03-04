@@ -1,0 +1,5 @@
+Installation instructions are not here.
+
+- We recommend you use a minimum of 20 keywords when using the dork gen.
+- Use python3
+- Python modules required: requests, colorama, pyfiglet, random
